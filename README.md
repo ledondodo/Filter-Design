@@ -3,9 +3,9 @@ This project is about designing a low pass filter in MATLAB, to be later impleme
 The goal was to get used to MATLAB, designing methods, and the Fourier Transform computation.
 
 <p align="center">
-  <img src="img/task1-hL.png" width=40% height=40% "Low pass filter h (time domain)">
+  <img src="img/task1-hL.png" width=40% height=40% alt="Low pass filter h (time domain)">
   &nbsp; &nbsp; &nbsp;
-  <img src="img/task1-FhL.png" width=40% height=40% "Low pass filter H (frequency domain)">
+  <img src="img/task1-FhL.png" width=40% height=40% alt="Low pass filter H (frequency domain)">
 </p>
 
 ## How does it work ?
